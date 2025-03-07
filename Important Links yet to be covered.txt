@@ -780,6 +780,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Modelling & Data Warehousing
 
+	=> https://www.youtube.com/watch?v=HKcEyHF1U00
+
 	=> https://medium.com/wwcode-python/data-engineer-interview-series-data-modeling-part-1-20b6a9cfc7a5
 	=> https://anju-mercian.medium.com/data-engineer-interview-series-data-modeling-part-2-8a794368b643
 
