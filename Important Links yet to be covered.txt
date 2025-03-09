@@ -897,6 +897,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Engineering Mock Interview (The Big Data Show)
 
+	=> https://www.youtube.com/watch?v=QMWXcyuYzD4   (COMPLETE AZURE ENGINEERING - 21 hours)
+
 	=> https://medium.com/@itsadityagupta/data-engineer-interview-experience-at-media-net-2023-6b7295493a3e
 
 	=> https://medium.com/@sujathamudadla1213/aws-data-engineering-interview-questions-cfedd68998d3
