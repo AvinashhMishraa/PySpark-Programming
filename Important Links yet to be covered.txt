@@ -518,6 +518,8 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 
 	=> https://www.youtube.com/watch?v=nYmoQ4r0DVw
 
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
+
 	=> https://www.youtube.com/watch?v=GHgRnBn-l1U
 
 	=> https://www.youtube.com/watch?v=dTiOlyL5WPQ   (live interview)
@@ -901,6 +903,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://medium.com/@itsadityagupta/data-engineer-interview-experience-at-media-net-2023-6b7295493a3e
 
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
+
 	=> https://medium.com/@sujathamudadla1213/aws-data-engineering-interview-questions-cfedd68998d3
 
 	=> https://freedium.cfd/https://medium.com/@think-data/data-engineering-interview-questions-7f72650ae380
@@ -1280,6 +1284,8 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%90%88%F0%9D%90%A7%F0
 
 
 	=> https://www.youtube.com/@DataArchitectStudio/playlists     (VERY IMPORTANT FOR INTERVIEWS)
+
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
 
 
 	=> https://varshacbendre.medium.com/how-i-processed-1-billion-rows-in-pyspark-without-crashing-and-you-can-too-d6725f29e039
@@ -2245,6 +2251,8 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%90%88%F0%9D%90%A7%F0
 8. Python Interview Questions 
 
 	=> https://www.youtube.com/watch?v=f9Aje_cN_CY  (whole DSA In Python)
+
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
 
 	=> Neelam Yadav
 		https://medium.com/@yaduvanshineelam09/advanced-python-functions-2089ef4330ba
