@@ -1281,6 +1281,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 7. PySpark Interview Questions
 
+	=> https://medium.com/@anupchakole/how-i-messed-up-my-data-engineering-interview-at-lti-mindtree-2ccc2d9d503b
+
 	=> https://freedium.cfd/https://towardsdev.com/windows-functions-in-pyspark-concepts-and-use-cases-82293a61621e
 
 => Arpita Mishra
