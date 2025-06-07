@@ -1429,6 +1429,8 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%90%88%F0%9D%90%A7%F0
 
 	=> https://pawankg.medium.com/pyspark-for-data-engineering-beginners-an-extensive-guide-ce29520a78ca
 
+	=> https://www.youtube.com/watch?v=7B47MT9ilgg   (Off Heap Memory in Spark: The Hidden Performance Booster || Spark Optimization techniques)
+
 	=> https://medium.com/@manjushang/how-to-write-queries-in-pyspark-c85742d6bf68
 
 	=> https://afroinfotech.medium.com/optimizing-merge-statements-in-databricks-strategies-for-efficiency-5d9292da0768
