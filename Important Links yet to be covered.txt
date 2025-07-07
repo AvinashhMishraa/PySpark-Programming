@@ -1,3 +1,12 @@
+Book - Grokking the System Design Interview
+Book - Designing Dta driven applications
+
+
+
+
+
+
+
 
 When interviewing a Python developer, key topics to cover include: core Python syntax and data structures, object-oriented programming (OOP) concepts, control flow, functions, string manipulation, exception handling, modules and packages, common libraries like NumPy, Pandas, and requests, web frameworks like Django or Flask (depending on the role), data analysis basics, problem-solving skills through coding exercises, and understanding of best practices like PEP 8; ensuring to tailor the depth of questions based on the desired seniority level
 
