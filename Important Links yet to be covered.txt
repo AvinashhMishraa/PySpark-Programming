@@ -7,8 +7,8 @@ https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Application
 
 
 UBER data pipeline - https://freedium.cfd/https://blog.det.life/i-spent-5-hours-understanding-how-uber-built-their-etl-pipelines-9079735c9103
-https://www.youtube.com/watch?v=oXLxbk5USFg   (End to End Data Analytics Project - AWS, Snowflake, Python)
-
+https://www.youtube.com/watch?v=oXLxbk5USFg   (End to End Data Analytics Project - AWS, Snowflake, Python - Ankit Bansal)
+https://www.youtube.com/watch?v=yHHCV3Q13Fo   (End-to-End Serverless AWS Event ETL Pipeline | AWS Data Engineering Project - Ankit Bansal)
 
 
 When interviewing a Python developer, key topics to cover include: core Python syntax and data structures, object-oriented programming (OOP) concepts, control flow, functions, string manipulation, exception handling, modules and packages, common libraries like NumPy, Pandas, and requests, web frameworks like Django or Flask (depending on the role), data analysis basics, problem-solving skills through coding exercises, and understanding of best practices like PEP 8; ensuring to tailor the depth of questions based on the desired seniority level
